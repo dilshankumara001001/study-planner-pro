@@ -1,0 +1,25 @@
+[03-Sep-2026 14:37:04 Asia/Colombo] Failed login attempt for email: admin@gmail.com
+[03-Sep-2026 14:37:11 Asia/Colombo] Failed login attempt for email: admin@gmail.com
+[03-Sep-2026 14:39:27 Asia/Colombo] Failed login attempt for email: admin@gmail.com
+[03-Sep-2026 14:41:50 Asia/Colombo] [2026-09-03 14:41:50] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:57 Asia/Colombo] [2026-09-03 14:45:57] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:57 Asia/Colombo] [2026-09-03 14:45:57] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:58 Asia/Colombo] [2026-09-03 14:45:58] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:58 Asia/Colombo] [2026-09-03 14:45:58] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:58 Asia/Colombo] [2026-09-03 14:45:58] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:58 Asia/Colombo] [2026-09-03 14:45:58] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:58 Asia/Colombo] [2026-09-03 14:45:58] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:59 Asia/Colombo] [2026-09-03 14:45:59] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:59 Asia/Colombo] [2026-09-03 14:45:59] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
+[03-Sep-2026 14:45:59 Asia/Colombo] [2026-09-03 14:45:59] Exception: Call to undefined function getUserStats() in C:\xampp\htdocs\study-planner-pro\pages\dashboard.php on line 14
+#0 {main}
