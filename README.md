@@ -1,4 +1,3 @@
-
 📚 StudyHub 
 
 > A modern, full-featured student study planner web application.
